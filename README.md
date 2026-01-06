@@ -1,9 +1,9 @@
-### 🤖 Friendly Motivational Chatbot
+## 🤖 Friendly Motivational Chatbot
 
 A responsive and interactive motivational chatbot built using React for the frontend and Flask for the backend.
 The chatbot provides encouraging responses, shows real-time typing indicators, message timestamps, and works smoothly across devices.
 
-✨ Features
+## ✨ Features
 
 💬 Real-time chat interface
 
@@ -23,8 +23,8 @@ The chatbot provides encouraging responses, shows real-time typing indicators, m
 
 🔗 React + Flask API integration
 
-🛠 Tech Stack
-Frontend
+## 🛠 Tech Stack
+### Frontend
 
 React
 
@@ -32,7 +32,7 @@ CSS (Responsive design)
 
 Fetch API
 
-Backend
+### Backend
 
 Python
 
@@ -41,7 +41,7 @@ Flask
 Flask-CORS
 
 
-🌱 Future Improvements
+## 🌱 Future Improvements
 
 🌙 Dark mode
 
@@ -53,10 +53,10 @@ Flask-CORS
 
 ☁️ Deployment (Vercel + Render)
 
-❤️ Credit
+## ❤️ Credit
 
 Made with ❤️ by Afza
 
-📄 License
+## 📄 License
 
 This project is open-source and free to use for learning and personal projects.
