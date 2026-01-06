@@ -1,4 +1,4 @@
-🤖 Friendly Motivational Chatbot
+### 🤖 Friendly Motivational Chatbot
 
 A responsive and interactive motivational chatbot built using React for the frontend and Flask for the backend.
 The chatbot provides encouraging responses, shows real-time typing indicators, message timestamps, and works smoothly across devices.
